@@ -1,0 +1,41 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    max-width: 1085px;
+    margin: 0 auto;
+}
+
+.image {
+    object-fit: contain;
+    max-height: 100vh;
+    width: auto;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+}
+
+.nav {
+    position: absolute;
+    top: 90%;
+    width: 100%;
+    text-align: center;
+}
+
+.nav a {
+    margin: 0 10px;
+    background: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 8px;
+    color: #000;
+}
