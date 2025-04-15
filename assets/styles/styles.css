@@ -39,12 +39,3 @@ img {
     border-radius: 8px;
     color: #000;
 }
-
-.nav-color-3 {
-    position: absolute;
-    top: 90%;
-    width: 100%;
-    text-align: center;
-    background: #00a5e3;
-    font-color: white;
-}
