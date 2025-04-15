@@ -12,7 +12,7 @@ html {
 
 .image {
     object-fit: contain;
-    max-height: 100vh;
+    max-height: 90vh;
     width: auto;
     margin: 0 auto;
 }
